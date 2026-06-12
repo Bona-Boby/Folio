@@ -17,7 +17,6 @@ jobs:
 run-pulse:
 runs-on: ubuntu-latest
 
-```
 steps:
   # Step 1: Checkout repository code
   - name: Checkout code
